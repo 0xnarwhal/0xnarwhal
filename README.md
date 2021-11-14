@@ -34,3 +34,7 @@ Please do call me 'Eden' as it's my preferred alias.
 
 - Discord Random Facts Bot
 - My Own Online Portfolio Website
+
+test
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.js" />][twitch]
