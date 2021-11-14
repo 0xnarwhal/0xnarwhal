@@ -35,4 +35,4 @@ Please do call me 'Eden' as it's my preferred alias.
 - Discord Random Facts Bot
 - My Own Online Portfolio Website
 
-<a href = "https://www.twitch.tv/edenfrey/"><img align = "center" alt = "Twitch" width="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.js"/></a>
+<a href = "https://www.twitch.tv/edenfrey/" target="_blank"><img alt = "Twitch" width="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.js"/></a><a href = "https://www.instagram.com/edenfrey/" target="_blank"><img alt = "Instagram" width="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/></a><a href = "https://www.linkedin.com/in/adrian-amir/" target="_blank"><img alt = "LinkedIn" width="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/></a>
