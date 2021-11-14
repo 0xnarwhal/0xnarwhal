@@ -35,10 +35,5 @@ Please do call me 'Eden' as it's my preferred alias.
 - Discord Random Facts Bot
 - My Own Online Portfolio Website
 
-[<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.js" />][twitch]
-
-<br />
-
-<br />
-
+[<img align = "left" alt = "Twitch" width="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/safari.svg"/>][twitch]
 [twitch] : https://www.twitch.tv/edenfrey/
