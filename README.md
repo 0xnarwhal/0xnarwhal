@@ -19,7 +19,7 @@ Please do call me 'Eden' as it's my preferred alias.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 You can contact me by email --> amiradrian@pm.me
 
-### Skill Set
+## Skill Set
 
 1. Web Development (HTML, CSS, JS, Node.js)
 2. Version Control (Git)
@@ -27,9 +27,9 @@ Please do call me 'Eden' as it's my preferred alias.
 4. Databases (SQL)
 5. Algorithms and Data Structures
 
-### Involved Projects
+## Involved Projects
 
-#### Current
+### Current
 ---
 
 - Discord Random Facts Bot
