@@ -35,4 +35,4 @@ Please do call me 'Eden' as it's my preferred alias.
 - Discord Random Facts Bot
 - My Own Online Portfolio Website
 
-[<img align = "center" alt = "Twitch" width="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.js"/>](https://www.twitch.tv/edenfrey/){:target="_blank"}
+<a href = "https://www.twitch.tv/edenfrey/"><img align = "center" alt = "Twitch" width="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.js"/></a>
