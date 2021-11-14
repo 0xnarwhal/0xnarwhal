@@ -29,11 +29,10 @@ Please do call me 'Eden' as it's my preferred alias.
 
 ## Involved Projects
 
-### Current
----
-
-- Discord Random Facts Bot
-- My Own Online Portfolio Website
+| Project | Status |
+| ----------- | ----------- |
+| Discord Random Facts Bot | Ongoing |
+| My Own Online Portfolio Website | Ongoing |
 
 ## Contact Me
 
