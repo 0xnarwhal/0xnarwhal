@@ -31,8 +31,8 @@ Please do call me 'Eden' as it's my preferred alias.
 
 | Project | Status |
 | ----------- | ----------- |
-| Discord Random Facts Bot | Ongoing |
-| My Own Online Portfolio Website | Ongoing |
+| [Discord Random Facts Bot](https://edenfrey.github.io/discord-random-facts-bot-website) | Finished |
+| [My Own Online Portfolio Website](https://edenfrey.github.io/) | Ongoing |
 
 ## Contact Me
 
