@@ -36,6 +36,8 @@ No Activity tracked this Week
 
 ## Skill Set
 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
 1. Web Development (HTML, CSS, JS, Node.js, React.js)
 2. Version Control (Git)
 3. Various Programming Languages (Python, Java, R)
