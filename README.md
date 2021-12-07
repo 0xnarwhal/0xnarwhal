@@ -3,7 +3,9 @@
 Please do call me 'Eden' as it's my preferred alias.
 
 
-## Glad To Meet You ![visitors](https://visitor-badge.glitch.me/badge?page_id=edenfrey.edenfrey&left_color=grey&right_color=blue)
+## Glad To Meet You 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=edenfrey.edenfrey&left_color=grey&right_color=blue)
 
 ## GitHub Stats
 
