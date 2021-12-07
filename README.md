@@ -34,7 +34,7 @@ No Activity tracked this Week
 
 ## Skill Set
 
-1. Web Development (HTML, CSS, JS, Node.js)
+1. Web Development (HTML, CSS, JS, Node.js, React.js)
 2. Version Control (Git)
 3. Various Programming Languages (Python, Java, R)
 4. Databases (SQL)
@@ -45,4 +45,4 @@ No Activity tracked this Week
 | Project | Status |
 | ----------- | ----------- |
 | [Discord Random Facts Bot](https://edenfrey.github.io/discord-random-facts-bot-website) | Finished |
-| [My Own Online Portfolio Website](https://edenfrey.github.io/) | Ongoing |
+| [My Own Online Portfolio Website](#) | Ongoing |
