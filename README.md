@@ -36,13 +36,7 @@ No Activity tracked this Week
 
 ## Skill Set
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-
-1. Web Development (HTML, CSS, JS, Node.js, React.js)
-2. Version Control (Git)
-3. Various Programming Languages (Python, Java, R)
-4. Databases (SQL)
-5. Algorithms and Data Structures
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=61DAFB) ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&color=61DAFB) ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&color=61DAFB) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=61DAFB) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&color=61DAFB) ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&color=61DAFB)
 
 ## Involved Projects
 
