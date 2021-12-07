@@ -3,11 +3,11 @@
 Please do call me 'Eden' as it's my preferred alias.
 
 
-## Glad To Meet You 
+## Glad To Meet You :smile: !
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=edenfrey.edenfrey&left_color=grey&right_color=blue)
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 [![Adrian’s github stats](https://github-readme-stats.vercel.app/api?username=edenfrey&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true&theme=dark)](https://github.com/edenfrey)
 
@@ -19,13 +19,13 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-## Education
+## 🎓 Education
 | Education | Year |
 | ----------- | ----------- |
-| Deutsche Internationale Abitur (DIA) | 2019 |
-| Bachelor's in Computer Science | Current |
+| [Deutsche Internationale Abitur (DIA)](#-student-bsc-computer-science--monash-university--interests) | 2019 |
+| [Bachelor's in Computer Science](#-school-deutsche-internaitonale-abitur--deutsche-schule-kuala-lumpur-dskl--interests) | Current |
 
-### 👨‍💻 BSc Computer Science @ Monash University + Interests
+### :student: BSc Computer Science @ Monash University + Interests
 ---
 
 - Studying in Data Science Stream | Second Year
@@ -34,13 +34,32 @@ No Activity tracked this Week
 - Love coding as a hobby and working on projects
 - Interested in learning Application Development
 
-## Skill Set
+### :school: Deutsche Internaitonale Abitur @ Deutsche Schule Kuala Lumpur (DSKL) + Interests
+---
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=61DAFB) ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&color=61DAFB) ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&color=61DAFB) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=61DAFB) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&color=61DAFB) ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&color=61DAFB)
+- Completed in May 2019
+- Notenshluss: 2.3 / GPA: ~3.2
+- Main Subjects: German, English, Mathematics, Geography, Physics
+- Extra Curriculumn: Swimming Team, Choir
 
-## Involved Projects
+## :man_technologist: Technological Expertise
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=61DAFB) ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=61DAFB) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=61DAFB) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=61DAFB) ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=61DAFB) 
+
+<br/>
+
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=61DAFB) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=61DAFB) ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&color=61DAFB) ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&color=61DAFB)
+
+
+<br/>
+
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&color=61DAFB) ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=61DAFB)
+
+
+## :thought_balloon: Personal Projects
 
 | Project | Status |
 | ----------- | ----------- |
 | [Discord Random Facts Bot](#) | Finished |
-| [My Own Online Portfolio Website](#) | Ongoing |
+| [My Online Portfolio](https://edenfrey.github.io/) | Ongoing |
+| [Cal-One-Dar](#) | Ongoing |
