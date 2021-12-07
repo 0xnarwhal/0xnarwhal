@@ -44,5 +44,5 @@ No Activity tracked this Week
 
 | Project | Status |
 | ----------- | ----------- |
-| [Discord Random Facts Bot](https://edenfrey.github.io/discord-random-facts-bot-website) | Finished |
+| [Discord Random Facts Bot](#) | Finished |
 | [My Own Online Portfolio Website](#) | Ongoing |
