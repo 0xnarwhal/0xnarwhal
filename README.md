@@ -11,7 +11,7 @@ Please do call me 'Eden' as it's my preferred alias.
 
 [![Adrian’s github stats](https://github-readme-stats.vercel.app/api?username=edenfrey&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true&theme=dark)](https://github.com/edenfrey)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edenfrey&layout=compact)](https://github.com/edenfrey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edenfrey&layout=compact&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true&theme=dark)](https://github.com/edenfrey)
 
 <!--START_SECTION:waka-->
 ```text
