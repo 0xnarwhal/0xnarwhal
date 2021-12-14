@@ -13,7 +13,7 @@ Please do call me 'Eden' as it's my preferred alias.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edenfrey&layout=compact&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true&theme=dark)](https://github.com/edenfrey)
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=khelthos&layuout=compact&theme=synthwave)](https://github.com/edenfrey)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=edenfrey&layout=compact&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true&theme=dark)](https://github.com/edenfrey)
 
 
 <!--START_SECTION:waka-->
