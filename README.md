@@ -19,6 +19,11 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+
+## 🙋 About Me
+
+I was born and raised in Malaysia and a portion of my life lived in Vienna, Austria. I really do enjoy getting into projects and new ideas and playing around with them by testing and venturing into uncharted waters.
+
 ## 🎓 Education
 | Education | Year |
 | ----------- | ----------- |
