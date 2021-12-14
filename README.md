@@ -53,7 +53,7 @@ I was born and raised in Malaysia and a portion of my life lived in Vienna, Aust
 
 <br/>
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=61DAFB) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=61DAFB) ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&color=61DAFB) ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&color=61DAFB)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=61DAFB) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=61DAFB) ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&color=61DAFB) ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&color=61DAFB) ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&color=61DAFB)
 
 
 <br/>
