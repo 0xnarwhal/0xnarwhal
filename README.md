@@ -15,9 +15,10 @@ Please do call me 'Eden' as it's my preferred alias.
 
 <!--START_SECTION:waka-->
 ```text
-SCSS     15 mins         ███████████▓░░░░░░░░░░░░░   46.95 % 
-JSX      11 mins         ████████▒░░░░░░░░░░░░░░░░   32.82 % 
-HTML     5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
+SCSS         1 hr 9 mins     ███████████████▓░░░░░░░░░   62.76 % 
+JSX          23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 % 
+Git          11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+HTML         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 ```
 <!--END_SECTION:waka-->
 
