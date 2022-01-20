@@ -15,7 +15,8 @@ Please do call me 'Eden' as it's my preferred alias.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+SCSS         56 mins         █████████████████▓░░░░░░░   70.10 % 
+JavaScript   23 mins         ███████▒░░░░░░░░░░░░░░░░░   29.72 % 
 ```
 <!--END_SECTION:waka-->
 
