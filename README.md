@@ -14,11 +14,15 @@ Please do call me 'Eden' as it's my preferred alias.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edenfrey&layout=compact&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true&theme=dark)](https://github.com/edenfrey)
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   53 mins         ████████████████▒░░░░░░░░   65.83 % 
-SCSS         21 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.45 % 
-JSON         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+JavaScript   53 mins         ████████████████▒░░░░░░░░   65.83 %
+SCSS         21 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
+JSON         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
+
 <!--END_SECTION:waka-->
 
 
