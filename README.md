@@ -56,7 +56,7 @@ I was born and raised in Malaysia and a portion of my life lived in Vienna, Aust
 
 ## :man_technologist: Technological Expertise
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=61DAFB) ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=61DAFB) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=61DAFB) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=61DAFB) ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=61DAFB) 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=61DAFB) ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=61DAFB) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=61DAFB) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=61DAFB) ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=61DAFB) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=postgresql&color=61DAFB) 
 
 <br/>
 
