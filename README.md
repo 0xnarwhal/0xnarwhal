@@ -16,9 +16,9 @@ Please do call me 'Eden' as it's my preferred alias.
 <!--START_SECTION:waka-->
 
 ```text
-Python   7 hrs 13 mins   ███████████████████████░░   91.43 %
-Java     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-XML      19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Python   4 hrs           █████████████████████▒░░░   85.56 %
+Java     20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+XML      19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 ```
 
 <!--END_SECTION:waka-->
