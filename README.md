@@ -16,7 +16,8 @@ Please do call me 'Eden' as it's my preferred alias.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Git      2 mins          ███████████████████████▒░   93.90 %
+Other    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
