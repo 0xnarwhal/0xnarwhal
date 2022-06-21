@@ -16,10 +16,10 @@ Please do call me 'Eden' as it's my preferred alias.
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 18 mins   █████████████████████▓░░░   86.46 %
-Git          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Git Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Other        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Python       2 hrs 25 mins   ███████████████████░░░░░░   76.03 %
+Git          17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Git Config   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Other        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
 ```
 
 <!--END_SECTION:waka-->
