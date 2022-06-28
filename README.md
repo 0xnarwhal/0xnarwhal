@@ -16,9 +16,7 @@ Please do call me 'Eden' as it's my preferred alias.
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-Git          8 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
-Other        6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
