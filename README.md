@@ -16,9 +16,7 @@ Please do call me 'Eden' as it's my preferred alias.
 <!--START_SECTION:waka-->
 
 ```text
-HTML   31 mins         ████████████████████████░   96.23 %
-Git    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
