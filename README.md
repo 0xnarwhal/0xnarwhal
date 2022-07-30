@@ -16,7 +16,11 @@ Please do call me 'Eden' as it's my preferred alias.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   38 mins         ███████████▓░░░░░░░░░░░░░   46.73 %
+SCSS         22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+JSON         14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+CSS          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
