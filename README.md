@@ -34,17 +34,16 @@ I was born and raised in Malaysia and a portion of my life lived in Vienna, Aust
 ## 🎓 Education
 | Education | Year |
 | ----------- | ----------- |
-| [Deutsche Internationale Abitur (DIA)](#-student-bsc-computer-science--monash-university--interests) | 2019 |
-| [Bachelor's in Computer Science](#-school-deutsche-internaitonale-abitur--deutsche-schule-kuala-lumpur-dskl--interests) | Current |
+| [Deutsche Internationale Abitur (DIA)](#-school-deutsche-internaitonale-abitur--deutsche-schule-kuala-lumpur-dskl--interests) | 2019 |
+| [Bachelor's in Computer Science and Data Science](#-student-bsc-computer-science-and-data-science--monash-university--interests) | 2023 |
 
-### :student: BSc Computer Science @ Monash University + Interests
+### :student: BSc Computer Science and Data Science @ Monash University + Interests
 ---
 
-- Studying in Data Science Stream | Second Year
-- Interested in Machine Learning and Web Development
-- Monash E-Sports Club Commitee Member
-- Love coding as a hobby and working on projects
+- Interested in Machine Learning,Web Development, and Cybersecurity
+- Monash E-Sports Club Committee & Member
 - Interested in learning Application Development
+- Current CGPA: 3.229
 
 ### :school: Deutsche Internaitonale Abitur @ Deutsche Schule Kuala Lumpur (DSKL) + Interests
 ---
@@ -72,6 +71,6 @@ I was born and raised in Malaysia and a portion of my life lived in Vienna, Aust
 
 | Project | Status |
 | ----------- | ----------- |
-| [Discord Random Facts Bot](https://www.github.com/edenfrey/Discord-Random-Facts-Bot) | Finished |
-| [My Online Portfolio](https://edenfrey.github.io/) | Ongoing |
-| [Cal-One-Dar](#) | Ongoing |
+| [Discord Random Facts Bot](https://www.github.com/edenfrey/Discord-Random-Facts-Bot) | Finished, Inactive, Archived |
+| [My Online Portfolio](https://edenfrey.github.io/) | Forever Developing |
+| [KIARA Chat Bot](https://www.github.com/edenfrey/KIARA-Bot) | Ongoing |
