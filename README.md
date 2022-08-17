@@ -34,10 +34,10 @@ I was born and raised in Malaysia and a portion of my life lived in Vienna, Aust
 ## 🎓 Education
 | Education | Year |
 | ----------- | ----------- |
-| [Deutsche Internationale Abitur (DIA)](#-school-deutsche-internaitonale-abitur--deutsche-schule-kuala-lumpur-dskl--interests) | 2019 |
-| [Bachelor's in Computer Science and Data Science](#-student-bsc-computer-science-and-data-science--monash-university--interests) | 2023 |
+| [Bachelor's in Computer Science and Data Science](#-student-bsc-computer-science-and-data-science--monash-university) | 2023 |
+| [Deutsche Internationale Abitur (DIA)](#-school-deutsche-internaitonale-abitur--deutsche-schule-kuala-lumpur-dskl) | 2019 |
 
-### :student: BSc Computer Science and Data Science @ Monash University + Interests
+### :student: BSc Computer Science and Data Science @ Monash University
 ---
 
 - Interested in Machine Learning,Web Development, and Cybersecurity
@@ -45,7 +45,7 @@ I was born and raised in Malaysia and a portion of my life lived in Vienna, Aust
 - Interested in learning Application Development
 - Current CGPA: 3.229
 
-### :school: Deutsche Internaitonale Abitur @ Deutsche Schule Kuala Lumpur (DSKL) + Interests
+### :school: Deutsche Internaitonale Abitur @ Deutsche Schule Kuala Lumpur (DSKL)
 ---
 
 - Completed in May 2019
