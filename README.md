@@ -16,12 +16,12 @@ Please do call me 'Eden' as it's my preferred alias.
 <!--START_SECTION:waka-->
 
 ```text
-Python       9 hrs 58 mins   ███████████████████▓░░░░░   78.34 %
-Markdown     32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-SCSS         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-CSV          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Python       7 hrs 31 mins   ███████████████████░░░░░░   75.77 %
+Markdown     40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+SCSS         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+CSV          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Git          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
