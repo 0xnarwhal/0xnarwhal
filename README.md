@@ -16,8 +16,7 @@ Please do call me 'Eden' as it's my preferred alias.
 <!--START_SECTION:waka-->
 
 ```text
-Python   6 hrs 17 mins   █████████████████████████   99.93 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python   10 hrs 54 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
