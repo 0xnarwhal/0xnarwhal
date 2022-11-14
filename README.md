@@ -66,6 +66,7 @@ I was born and raised in Malaysia and a portion of my life lived in Vienna, Aust
 
 | Project | Status |
 | ----------- | ----------- |
-| [Discord Random Facts Bot](https://www.github.com/edenfrey/Discord-Random-Facts-Bot) | Finished, Inactive, Archived |
+| [Discord Random Facts Bot](https://www.github.com/edenfrey/Discord-Random-Facts-Bot) | Archived (Innactive) |
 | [My Online Portfolio](https://edenfrey.github.io/) | Forever Developing |
+| [Globe500](https://edenfrey.github.io/FIT3179_Visualisation2_Globe500/) | Archived (Active) |
 | [KIARA Chat Bot](https://www.github.com/edenfrey/KIARA-Bot) | Ongoing |
