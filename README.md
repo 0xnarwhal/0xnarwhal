@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Adrian/Eden/Adam.
+# 👋 Hi! I'm Adrian/Eden.
 
 Please do call me 'Eden' as it's my preferred alias.
 
