@@ -27,10 +27,15 @@ Python   35 mins         ██████████████████�
 I was born and raised in Malaysia and a portion of my life lived in Vienna, Austria. I really do enjoy getting into projects and new ideas and playing around with them by testing and venturing into uncharted waters.
 
 ## 🎓 Education
-| Education | Year |
+| Education | Graduated |
 | ----------- | ----------- |
 | [Bachelor's in Computer Science and Data Science](#-student-bsc-computer-science-and-data-science--monash-university) | 2023 |
 | [Deutsche Internationale Abitur (DIA)](#-school-deutsche-internaitonale-abitur--deutsche-schule-kuala-lumpur-dskl) | 2019 |
+
+## 🧑‍💼 Experience
+| Position | Company | Period |
+| ----------- | ----------- | ----------- |
+| Cybersecurity Vulnerability Management (Intern) | PETRONAS Digital | Nov 2022 - Feb 2023 |
 
 ### :student: BSc Computer Science and Data Science @ Monash University
 ---
