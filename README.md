@@ -70,8 +70,12 @@ Born and raised in Malaysia and a portion of my life spent in Vienna, Austria. I
 <!--START_SECTION:waka-->
 
 ```text
-Python   39 mins         ██████████████████▓░░░░░░   74.61 %
-Bash     13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
+Python       39 mins         █████████████▒░░░░░░░░░░░   53.28 %
+Bash         19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+JavaScript   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
