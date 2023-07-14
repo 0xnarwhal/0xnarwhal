@@ -1,34 +1,58 @@
-# 👋 Hello there! I am Adrian - aka [Eden Frey](https://edenfrey.github.io/)
+# 👋 Hello there! I am Adrian.
 
-## I am a Student, Content Creator, Web Developer, and Penetration Tester
+### Hyperlinks of Interests
+twitter
+instagram
+linkein
+portfolio
+hackerone
 
-- 🎓 Monash University 2023 Undergraduate
+## Jump Around the Document! 🦘
+
+1. [Current State + Info Dump](#current-state-and-info-dump)
+2. [About Me](#about-me)
+3. [Historical View](#historical-view)
+4. [Web Development](#web-development)
+5. [Machine Learrning](#machine-learning)
+6. [Penetration Testing](#penetration-testing)
+7. [Content Creation](#content-creation)
+8. [Other Activities](#other-activities)
+9. [Skillsets](#skillsets)
+10. [GitHub Activity](#github-activity)
+
+## Current State and Info Dump
+
+- Currently: Employed (hooray 🥳) @ **PETRONAS Digital Sdn Bhd as Vulnerability Management**
+- 🎓 Monash University BSC 2023 Graduate
 - 🤔 Interests in Machine Learning, Hacking, Web Development, and Cybersecurity
-- 🌅 Always learning more
-- 🎯 2023 Goals: Obtain eJPTv2 Certification
+- 🌅 Always learning
+- 🎯 2023 Goals: eJPTv2 Certification, 6 Projects, first bug bounty, first hack application
 
----
+## About Me
 
-## About Myself
+Born and raised in Malaysia and spent a significant portion of my life in Vienna, Austria. Graduated from Monash University with a bacherlor's degree in computer science in July 2023 specializing in data science. Well versed in web development, machine learning, and penetration testing.
 
-Born and raised in Malaysia and a portion of my life spent in Vienna, Austria. I really do enjoy getting into projects and new ideas and playing around with them by testing and venturing into uncharted waters.
+I enjoy getting into projects and new ideas and playing around with them by testing and venturing into uncharted waters. As much as I like to build things up, I like to break things 🙂. Hence, hacking has been part of my interest for the longest and is most prominent.
 
-## Education
+## Historical View
 
-| Education | Year |
+| Event | Date | Notes |
+| ----------- | ----------- | ----------- |
+| Vulnerability Management | August 2023 - Present Day | Executive @ PETRONAS Digital Sdn Bhd |
+| Vulnerability Management | Nov 2022 - Feb 2023 | Intern @ PETRONAS Digital Sdn Bhd |
+| BSc Computer Science in Data Science | October 2020 - July 2023 | Graduated @ Monash University |
+| Deutsche Internationale Abitur | July 2017 - May 2019 | Graduated @ Deutsche Schule Kuala Lumpur |
+
+## Other Activities
+
+| Project | Status |
 | ----------- | ----------- |
-| [BSc Computer Science in Data Science](#-student-bsc-computer-science-and-data-science--monash-university) | 2023 |
-| [Deutsche Internationale Abitur](#-school-deutsche-internaitonale-abitur--deutsche-schule-kuala-lumpur-dskl) | 2019 |
+| [My Online Portfolio](https://edenfrey.github.io/) | Forever Developing |
+| [Globe500](https://edenfrey.github.io/FIT3179_Visualisation2_Globe500/) | Archived (Active) |
+| [KIARA Chat Bot](https://www.github.com/edenfrey/KIARA-Bot) | Archived (Inactive) |
+| [Discord Random Facts Bot](https://www.github.com/edenfrey/Discord-Random-Facts-Bot) | Archived (Inactive) |
 
-## Experience
-
-| Position | Company | Employment Level |Period |
-| ----------- | ----------- | ----------- | ----------- |
-| Cybersecurity Vulnerability Management | PETRONAS Digital SDN BHD | Intern |Nov 2022 - Feb 2023 |
-
----
-
-## :man_technologist: Technological Expertise
+## Skillsets
 
 ![ReactJS](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=61DAFB)
@@ -49,23 +73,11 @@ Born and raised in Malaysia and a portion of my life spent in Vienna, Austria. I
 ![SASS](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=sass&color=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=61DAFB)
 
-## :thought_balloon: Personal Projects
-
-| Project | Status |
-| ----------- | ----------- |
-| [My Online Portfolio](https://edenfrey.github.io/) | Forever Developing |
-| [Globe500](https://edenfrey.github.io/FIT3179_Visualisation2_Globe500/) | Archived (Active) |
-| [KIARA Chat Bot](https://www.github.com/edenfrey/KIARA-Bot) | Archived (Inactive) |
-| [Discord Random Facts Bot](https://www.github.com/edenfrey/Discord-Random-Facts-Bot) | Archived (Innactive) |
----
-
-<details>
-
-<summary>📈 GitHub Activity</summary>
+## Github Activity
 
 [![Adrian’s github stats](https://github-readme-stats.vercel.app/api?username=edenfrey&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true&theme=dark)](https://github.com/edenfrey)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edenfrey&layout=compact&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true&theme=dark)](https://github.com/edenfrey)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edenfrey&layout=compact&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true&theme=dark)](https://github.com/edenfrey)
 
 <!--START_SECTION:waka-->
 
@@ -74,5 +86,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-</details>
