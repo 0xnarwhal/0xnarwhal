@@ -18,8 +18,38 @@
 </div>
 
 <div id="title" align="center">
-    <h1>Good evening | My name is Adrian</h1>
+    <h1>good evening | i am adrian</h1>
 </div>
+
+## about me 🌔
+
+birthplace: **malaysia**
+
+nightowl: **yes**
+
+interests: **cybersec, web dev, automation, scripting, full stack dev**
+
+## education/certification timeline
+|Date|Qualification|Additional Info|
+|-------------|---------------------------------------------------------------|----|
+|**MAY 2019** | Deutsche Internationale Abitur @ Deutsche Schule Kuala Lumpur|3.2 CGPA|
+|**JUL 2023** | Bachelors of Computer Science in Data Science @ Monash University|3.082 CGPA|
+|**OCT 2023**| eJPTv2 | In Progress|
+
+## experience timeline
+
+|Position|Company|Employment Level|Additional Info|
+|-------------|---------------------------------------------------------------|----|-----|
+|Cyber Security: Vulnerability Management | PETRONAS Digital Sdn Bhd |Intern| 3-month internship experience |
+|Cyber Security: Vulnerability Management | PETRONAS Digital Sdn Bhd |Executive|Current full-time|
+
+## projects
+
+## technological experience
+
+## find me
+
+## statistics (that dont mean much)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=edenfrey&theme=dark&hide_border=true&mode=weekly&card_width=600)](https://git.io/streak-stats)
 
