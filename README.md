@@ -45,9 +45,15 @@ interests: **cybersec, web dev, automation, scripting, full stack dev**
 
 ## projects
 
-## technological experience
+though not many, I am full of ideas and projects. I just need to get over the procrastination.
 
-## find me
+| Project Name | Description | Status (Date) |
+|--------------|-------------|---------------|
+|StockPicker| A python script that recommends certain stocks to purchase based of historical data pulled from Yahoo Finance API| Completed + Active (JUL 2023)|
+|Albert Bot| A Discord server bot that uses ~~ChatGPT API~~ Falcon AI model to converse and answer questions. It is essentially an assistant bot on Discord| Completed + Active (MAR 2023)|
+|KIARA Bot| A Discord server bot that is capable of performing tasks and understand commands using natural spoken english rather than preset commands. This uses NLP and machine learning to function. This pre-existed ChatGPT and is now obsolete. | Incomplete + Inactive/Archived (FEB 2023)|
+|Globe500|A data visualization hosted on a website to showcase the top 500 known richest people in the world and the industry that they are in| Completed (NOV 2022)
+|Discord Random Facts Bot| A Discord server bot that, on command, provides a random fact of the day or chooses a random fact through an API. Pre-existed ChatGPT and is now obsolete| Completed + Inactive/Archived (JUL 2022)|
 
 ## statistics (that dont mean much)
 
