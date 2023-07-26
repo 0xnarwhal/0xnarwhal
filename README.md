@@ -62,8 +62,10 @@ though not many, I am full of ideas and projects. I just need to get over the pr
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 17 mins    ████████████████████████▒   97.88 %
-Text       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Markdown   1 hr 36 mins    █████████████████████▓░░░   86.36 %
+Python     13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
