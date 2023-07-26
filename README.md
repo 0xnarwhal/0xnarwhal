@@ -57,7 +57,9 @@ though not many, I am full of ideas and projects. I just need to get over the pr
 
 ## statistics (that dont mean much)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=edenfrey&theme=dark&hide_border=true&mode=weekly&card_width=600)](https://git.io/streak-stats)
+<div id='stats' align='center'>
+    <a href = 'https://git.io/streak-stats'><img src = 'https://streak-stats.demolab.com?user=edenfrey&theme=dark&hide_border=true&mode=weekly&card_width=600'>
+</div>
 
 <!--START_SECTION:waka-->
 
