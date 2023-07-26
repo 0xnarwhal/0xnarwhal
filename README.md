@@ -63,7 +63,11 @@ though not many, I am full of ideas and projects. I just need to get over the pr
 
 <!--START_SECTION:waka-->
 
-```txt
+```all_time
+From: 18 July 2023 - To: 25 July 2023
+
+Total Time: 1 hr 51 mins
+
 Markdown   1 hr 36 mins    █████████████████████▓░░░   86.36 %
 Python     13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
 Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
