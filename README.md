@@ -64,16 +64,16 @@ though not many, I am full of ideas and projects. I just need to get over the pr
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
-Total Time: 14 hrs 43 mins
+Total Time: 13 hrs 51 mins
 
-Markdown     10 hrs 57 mins  ██████████████████▓░░░░░░   74.33 %
-JavaScript   2 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-Python       1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Markdown     10 hrs 30 mins  ███████████████████░░░░░░   75.80 %
+JavaScript   2 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+Python       44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
