@@ -64,13 +64,12 @@ though not many, I am full of ideas and projects. I just need to get over the pr
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 August 2023 - To: 25 August 2023
+From: 19 August 2023 - To: 26 August 2023
 
-Total Time: 3 hrs 55 mins
+Total Time: 3 hrs 27 mins
 
-Markdown         3 hrs 41 mins   ███████████████████████▓░   94.09 %
-HTML             13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown         3 hrs 27 mins   █████████████████████████   99.99 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
