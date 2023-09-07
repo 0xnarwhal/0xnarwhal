@@ -64,15 +64,15 @@ though not many, I am full of ideas and projects. I just need to get over the pr
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-Total Time: 15 hrs 50 mins
+Total Time: 16 hrs 43 mins
 
-Markdown       13 hrs 11 mins  ████████████████████▓░░░░   83.33 %
-Python         2 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-Ezhil          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Bash           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Text           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown       14 hrs 4 mins   █████████████████████░░░░   84.21 %
+Python         2 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+Ezhil          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Bash           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Text           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Assembly       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
