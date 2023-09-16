@@ -1,25 +1,4 @@
-<div id="header" align="center">
-    <img src="https://i.pinimg.com/originals/13/57/06/1357063e3274ba53992ebfabd810288d.gif">
-</div>
-
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/amiradrian">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/adrian.xhtml">
-        <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="https://www.twitter.com/adrian.xhtml">
-        <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@adrian-mq5fx">
-        <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
-</div>
-
-<div id="title" align="center">
-    <h1>good evening | i am adrian</h1>
-</div>
+# adrian / eden / narwhal
 
 ## about me 🌔
 
@@ -27,9 +6,10 @@ birthplace: **malaysia**
 
 nightowl: **yes**
 
-interests: **cybersec, web dev, automation, scripting, full stack dev**
+interests: **cybersec, web app dev, automation, bot developemnt, machine learning**
 
 ## education/certification timeline
+
 |Date|Qualification|Additional Info|
 |-------------|---------------------------------------------------------------|----|
 |**MAY 2019** | Deutsche Internationale Abitur @ Deutsche Schule Kuala Lumpur|3.2 CGPA|
@@ -45,21 +25,13 @@ interests: **cybersec, web dev, automation, scripting, full stack dev**
 
 ## projects
 
-though not many, I am full of ideas and projects. I just need to get over the procrastination.
+currently going through a reset of my projects. Starting with a clean slate.
 
 | Project Name | Description | Status (Date) |
 |--------------|-------------|---------------|
-|StockPicker| A python script that recommends certain stocks to purchase based of historical data pulled from Yahoo Finance API| Completed (JUL 2023)|
-|Albert Bot| A Discord server bot that uses ~~ChatGPT API~~ Falcon AI model to converse and answer questions. It is essentially an assistant bot on Discord| Completed (MAR 2023)|
-|KIARA Bot| A Discord server bot that is capable of performing tasks and understand commands using natural spoken english rather than preset commands. This uses NLP and machine learning to function. This pre-existed ChatGPT and is now obsolete. | Discontinued (FEB 2023)|
-|Globe500|A data visualization hosted on a website to showcase the top 500 known richest people in the world and the industry that they are in| Completed (NOV 2022)
-|Discord Random Facts Bot| A Discord server bot that, on command, provides a random fact of the day or chooses a random fact through an API. Pre-existed ChatGPT and is now obsolete| Completed (JUL 2022)|
+|Subdomain Monitoring Bot|A Discord bot that monitors subdomains of a set domain list and reports any newly found subdomains.|In Progress (12/09/2023)|
 
 ## statistics (that dont mean much)
-
-<div id='stats' align='center'>
-    <a href = 'https://git.io/streak-stats'><img src = 'https://streak-stats.demolab.com?user=edenfrey&theme=dark&hide_border=true&mode=weekly&card_width=600'>
-</div>
 
 <!--START_SECTION:waka-->
 
