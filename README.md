@@ -36,16 +36,16 @@ currently going through a reset of my projects. Starting with a clean slate.
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
-Total Time: 2 hrs 51 mins
+Total Time: 6 hrs 35 mins
 
-Python         1 hr 15 mins    ██████████▓░░░░░░░░░░░░░░   42.68 %
-Markdown       58 mins         ████████▒░░░░░░░░░░░░░░░░   33.15 %
-JSON           17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-ActionScript   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Git Config     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Other          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Python         4 hrs 6 mins    ███████████████▒░░░░░░░░░   61.55 %
+Markdown       1 hr 19 mins    █████░░░░░░░░░░░░░░░░░░░░   19.86 %
+JSON           31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Ezhil          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+ActionScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Git Config     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
