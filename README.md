@@ -29,7 +29,7 @@ currently going through a reset of my projects. Starting with a clean slate.
 
 | Project Name | Description | Status (Date) |
 |--------------|-------------|---------------|
-|Subdomain Monitoring Bot|A Discord bot that monitors subdomains of a set domain list and reports any newly found subdomains.|In Progress (12/09/2023)|
+|[Subdomain Monitoring Bot](https://github.com/edenfrey/subdomain-monitor)|A Discord bot that monitors subdomains of a set domain list and reports any newly found subdomains.|Completed MVP (17/09/2023)|
 
 ## statistics (that dont mean much)
 
