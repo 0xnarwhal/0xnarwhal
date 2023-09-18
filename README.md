@@ -36,7 +36,7 @@ currently going through a reset of my projects. Starting with a clean slate.
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
 Total Time: 6 hrs 35 mins
 
