@@ -1,37 +1,38 @@
-# adrian / eden / narwhal
+# Hello there...
 
-## about me 🌔
+```bash
+root@digitalgarden:~$ whoami
+Adrian / Eden / Narwhal
 
-birthplace: **malaysia**
+root@digitalgarden:~$ where birthplace
+Malaysia
 
-nightowl: **yes**
+root@digitalgarden:~$ ls ./nightowl -a
+.True
 
-interests: **cybersec, web app dev, automation, bot developemnt, machine learning**
+root@digitalgarden:~$ cat interests.txt
+Cyber Security / Ethical Hacking
+Web Development
+Automation
+Bot Development
+Machine Learning
+Python Scripting
+```
 
-## education/certification timeline
-
-|Date|Qualification|Additional Info|
-|-------------|---------------------------------------------------------------|----|
-|**MAY 2019** | Deutsche Internationale Abitur @ Deutsche Schule Kuala Lumpur|3.2 CGPA|
-|**JUL 2023** | Bachelors of Computer Science in Data Science @ Monash University|3.082 CGPA|
-|**OCT 2023**| eJPTv2 | In Progress|
-
-## experience timeline
+## Proffesional Career Timeline
 
 |Position|Company|Employment Level|Additional Info|
 |-------------|---------------------------------------------------------------|----|-----|
 |Cyber Security: Vulnerability Management | PETRONAS Digital Sdn Bhd |Intern| 3-month internship experience |
 |Cyber Security: Vulnerability Management | PETRONAS Digital Sdn Bhd |Executive|Current full-time|
 
-## projects
-
-currently going through a reset of my projects. Starting with a clean slate.
+## Projects
 
 | Project Name | Description | Status (Date) |
 |--------------|-------------|---------------|
 |[Subdomain Monitoring Bot](https://github.com/edenfrey/subdomain-monitor)|A Discord bot that monitors subdomains of a set domain list and reports any newly found subdomains.|Completed MVP (17/09/2023)|
 
-## statistics (that dont mean much)
+## Stats that don't mean much...
 
 <!--START_SECTION:waka-->
 
