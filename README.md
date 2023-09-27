@@ -37,14 +37,14 @@ Python Scripting
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 September 2023 - To: 26 September 2023
+From: 20 September 2023 - To: 27 September 2023
 
-Total Time: 1 hr 30 mins
+Total Time: 2 hrs 4 mins
 
-C++          55 mins         ███████████████▓░░░░░░░░░   62.15 %
-Markdown     30 mins         ████████▒░░░░░░░░░░░░░░░░   33.90 %
-PowerShell   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+C++          1 hr 28 mins    ██████████████████░░░░░░░   71.68 %
+Markdown     31 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
+PowerShell   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
