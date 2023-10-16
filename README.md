@@ -31,6 +31,7 @@ Python Scripting
 | Project Name | Description | Status (Date) |
 |--------------|-------------|---------------|
 |[Subdomain Monitoring Bot](https://github.com/edenfrey/subdomain-monitor)|A Discord bot that monitors subdomains of a set domain list and reports any newly found subdomains.|Completed MVP (17/09/2023)|
+|[ATTiny85 BUSB](https://github.com/edenfrey/ATTiny85_BUSB)|A framework to script and create Bad USB devices with the aim to hack and exploit target computers.|Completed MVP (01/10/2023)|
 
 ## Stats that don't mean much...
 
