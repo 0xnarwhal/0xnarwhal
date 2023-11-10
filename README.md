@@ -38,13 +38,11 @@ Python Scripting
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 November 2023 - To: 09 November 2023
+From: 03 November 2023 - To: 10 November 2023
 
-Total Time: 41 mins
+Total Time: 0 secs
 
-Python       33 mins         ████████████████████▓░░░░   82.55 %
-Bash         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Git Config   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
