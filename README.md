@@ -38,11 +38,16 @@ Python Scripting
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 November 2023 - To: 05 December 2023
+From: 29 November 2023 - To: 06 December 2023
 
-Total Time: 0 secs
+Total Time: 3 hrs 38 mins
 
-No activity tracked
+HTML         2 hrs 49 mins   ███████████████████▒░░░░░   77.59 %
+Bash         26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+Python       17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
