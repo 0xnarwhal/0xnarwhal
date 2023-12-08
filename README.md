@@ -38,7 +38,7 @@ Python Scripting
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 November 2023 - To: 07 December 2023
+From: 01 December 2023 - To: 08 December 2023
 
 Total Time: 3 hrs 43 mins
 
