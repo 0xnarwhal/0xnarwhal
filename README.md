@@ -38,11 +38,12 @@ Python Scripting
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 January 2024 - To: 16 January 2024
+From: 10 January 2024 - To: 17 January 2024
 
-Total Time: 0 secs
+Total Time: 34 mins
 
-No activity tracked
+Python   34 mins         ████████████████████████░   96.36 %
+Other    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
