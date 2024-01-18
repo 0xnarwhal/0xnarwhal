@@ -38,7 +38,7 @@ Python Scripting
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
 Total Time: 34 mins
 
