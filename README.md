@@ -1,22 +1,24 @@
-# Hello there...
+# Good Evening Stranger...
 
 ```bash
-root@digitalgarden:~$ whoami
+root@digitisedgarden:~$ whoami
 Adrian / Eden / Narwhal
 
-root@digitalgarden:~$ where birthplace
+root@digitisedgarden:~$ where birthplace
 Malaysia
 
-root@digitalgarden:~$ ls ./nightowl -a
+root@digitisedgarden:~$ ls ./nightowl -a
 .True
 
-root@digitalgarden:~$ cat interests.txt
-Cyber Security / Ethical Hacking
-Web Development
+root@digitisedgarden:~$ cat interests.txt
+Cyber Security
+  - Penetration Testing
+  - Red Team
+  - Exploit Development
+Web Dev
 Automation
-Bot Development
-Machine Learning
-Python Scripting
+Bot Dev
+Game Dev
 ```
 
 ## Proffesional Career Timeline
@@ -30,8 +32,8 @@ Python Scripting
 
 | Project Name | Description | Status (Date) |
 |--------------|-------------|---------------|
-|[Subdomain Monitoring Bot](https://github.com/edenfrey/subdomain-monitor)|A Discord bot that monitors subdomains of a set domain list and reports any newly found subdomains.|Completed MVP (17/09/2023)|
-|[ATTiny85 BUSB](https://github.com/edenfrey/ATTiny85_BUSB)|A framework to script and create Bad USB devices with the aim to hack and exploit target computers.|Completed MVP (01/10/2023)|
+|[Subdomain Monitoring Bot](https://github.com/edenfrey/subdomain-monitor)|A Discord bot that monitors subdomains of a set domain list and reports any newly found subdomains.|Completed. Deleted during the purge|
+|[ATTiny85 BUSB](https://github.com/edenfrey/ATTiny85_BUSB)|A framework to script and create Bad USB devices with the aim to hack and exploit target computers.|Completed|
 
 ## Stats that don't mean much...
 
