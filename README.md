@@ -40,13 +40,14 @@ Game Dev
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 14 March 2024 - To: 21 March 2024
+From: 15 March 2024 - To: 22 March 2024
 
-Total Time: 14 mins
+Total Time: 24 mins
 
-C++      8 mins          ███████████████░░░░░░░░░░   60.25 %
-HTML     4 mins          ████████▓░░░░░░░░░░░░░░░░   34.43 %
-Python   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Markdown   9 mins          ██████████░░░░░░░░░░░░░░░   40.08 %
+C++        8 mins          █████████░░░░░░░░░░░░░░░░   36.10 %
+HTML       4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.63 %
+Python     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
