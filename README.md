@@ -40,7 +40,7 @@ Game Dev
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 March 2024 - To: 01 April 2024
+From: 26 March 2024 - To: 02 April 2024
 
 Total Time: 0 secs
 
