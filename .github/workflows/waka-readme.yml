@@ -18,6 +18,10 @@ jobs:
           # meta
           API_BASE_URL: https://wakatime.com/api
           # content
+          SECTION_NAME: waka
+          CODE_LANG: all_time
+          TIME_RANGE: last_365_days
+          LANG_COUNT: 15
           SHOW_OS: true
           SHOW_PROJECTS: true
           SHOW_UPDATED_DATE: true
