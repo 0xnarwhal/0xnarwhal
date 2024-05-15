@@ -39,7 +39,7 @@ Game Dev
 
 <!--START_SECTION:waka-->
 
-```all_time
+```txt
 From: 08 May 2024 - To: 15 May 2024
 
 Total Time: 3 hrs 3 mins
