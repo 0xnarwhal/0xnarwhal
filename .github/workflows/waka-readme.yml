@@ -20,7 +20,7 @@ jobs:
           # content
           SECTION_NAME: waka
           CODE_LANG: all_time
-          TIME_RANGE: last_365_days
+          TIME_RANGE: last_90_days
           LANG_COUNT: 15
           SHOW_OS: true
           SHOW_PROJECTS: true
