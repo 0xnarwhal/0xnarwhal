@@ -19,7 +19,6 @@ jobs:
           API_BASE_URL: https://wakatime.com/api
           # content
           SECTION_NAME: waka
-          CODE_LANG: all_time
           TIME_RANGE: last_90_days
           LANG_COUNT: 15
           SHOW_OS: true
