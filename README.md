@@ -38,6 +38,8 @@ Game Dev
 ## Stats that don't mean much...
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2023%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20thousand%20lines%20of%20code-blue)
@@ -45,8 +47,6 @@ Game Dev
 **🐱 My GitHub Data** 
 
 > 📦 9.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,16 +81,20 @@ Sunday                   14 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    2 hrs 46 mins       █████████████████████████   100.00 % 
+Markdown                 2 hrs 27 mins       ████████████████░░░░░░░░░   65.78 % 
+Other                    1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   34.22 % 
 
 🔥 Editors: 
-Discord                  2 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 27 mins       ████████████████░░░░░░░░░   65.78 % 
+Discord                  1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   34.22 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 46 mins       █████████████████████████   100.00 % 
+Encipher_WebAppSec_Traini2 hrs 27 mins       ████████████████░░░░░░░░░   65.78 % 
+Unknown Project          1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   34.22 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 27 mins       ████████████████░░░░░░░░░   65.78 % 
+Windows                  1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   34.22 % 
 ```
 
 **I Mostly Code in Python** 
