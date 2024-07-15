@@ -38,7 +38,7 @@ Game Dev
 ## Stats that don't mean much...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,6 +47,8 @@ Game Dev
 **🐱 My GitHub Data** 
 
 > 📦 9.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 35 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,17 +83,17 @@ Sunday                   14 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   10 hrs 39 mins      █████████████████████████   99.75 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   11 hrs 51 mins      █████████████████████████   99.72 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs 40 mins      █████████████████████████   100.00 % 
+Unknown Project          11 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
