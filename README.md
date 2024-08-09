@@ -46,7 +46,7 @@ Game Dev
 
 **🐱 My GitHub Data** 
 
-> 📦 9.3 kB Used in GitHub's Storage 
+> 📦 28.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
