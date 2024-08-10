@@ -48,6 +48,8 @@ Game Dev
 
 > 📦 28.1 kB Used in GitHub's Storage 
  > 
+> 🏆 38 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -109,5 +111,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xnarwhal/0xnarwhal/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2024 UTC
+ Last Updated on 10/08/2024 UTC
 <!--END_SECTION:waka-->
