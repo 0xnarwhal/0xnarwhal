@@ -83,18 +83,16 @@ Sunday                   14 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-CSS                      39 mins             ███████████░░░░░░░░░░░░░░   43.17 % 
-HTML                     33 mins             █████████░░░░░░░░░░░░░░░░   36.48 % 
-JavaScript               18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-J-Birthday-Website       1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
