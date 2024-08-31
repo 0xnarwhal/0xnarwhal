@@ -83,17 +83,16 @@ Sunday                   14 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-CSS                      52 mins             █████████████████████░░░░   84.44 % 
-HTML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BadUSB_Site              1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
