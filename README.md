@@ -46,7 +46,7 @@ Game Dev
 
 **🐱 My GitHub Data** 
 
-> 📦 30.0 kB Used in GitHub's Storage 
+> 📦 30.1 kB Used in GitHub's Storage 
  > 
 > 🏆 41 Contributions in the Year 2024
  > 
