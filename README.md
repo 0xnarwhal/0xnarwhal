@@ -48,7 +48,7 @@ Game Dev
 
 > 📦 30.3 kB Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
