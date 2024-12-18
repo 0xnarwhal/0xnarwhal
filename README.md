@@ -38,7 +38,7 @@ Game Dev
 ## Stats that don't mean much...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,16 +83,20 @@ Sunday                   14 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 13 mins       ████████████████░░░░░░░░░   65.94 % 
+HTML                     1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   33.99 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+personal-website         3 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
