@@ -48,13 +48,11 @@ Game Dev
 
 > 📦 30.3 kB Used in GitHub's Storage 
  > 
-> 🏆 44 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
