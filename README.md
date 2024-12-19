@@ -38,7 +38,7 @@ Game Dev
 ## Stats that don't mean much...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -48,7 +48,7 @@ Game Dev
 
 > 📦 31.3 kB Used in GitHub's Storage 
  > 
-> 🏆 44 Contributions in the Year 2024
+> 🏆 47 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
