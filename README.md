@@ -37,6 +37,14 @@ Data Science
 |--------------|-------------|---------------|
 |[Bad USB](https://basusb,digitisedgarden.com)|A framework to script and create Bad USB devices with the aim to hack and exploit target computers.|Completed|
 
+## Connect With Me
+
+[Hub Website](https://digitisedgarden.com)
+
+[Adrian's Website](https://adrian.digitisedgarden.com)
+
+[LinkedIn](https://linkedin.com/in/amiradrian)
+
 ## Stats that don't mean much...
 
 <!--START_SECTION:waka-->
