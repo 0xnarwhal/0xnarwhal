@@ -17,23 +17,25 @@ Cyber Security
   - Exploit Development
 Web Dev
 Automation
-Bot Dev
 Game Dev
+Data Science
+  - Machine Learning
+  - NLP
+  - Data Analysis and Visualization
 ```
 
 ## Proffesional Career Timeline
 
 |Position|Company|Employment Level|Additional Info|
 |-------------|---------------------------------------------------------------|----|-----|
-|Cyber Security: Vulnerability Management | PETRONAS Digital Sdn Bhd |Intern| 3-month internship experience |
-|Cyber Security: Vulnerability Management | PETRONAS Digital Sdn Bhd |Executive|Current full-time|
+|Solutions Engineer & Penetration Tester | PETRONAS Digital |Executive| Current Employment |
+|Operations Intern | PETRONAS Digital |Internship|3-month internship experience|
 
 ## Projects
 
 | Project Name | Description | Status (Date) |
 |--------------|-------------|---------------|
-|[Subdomain Monitoring Bot](https://github.com/edenfrey/subdomain-monitor)|A Discord bot that monitors subdomains of a set domain list and reports any newly found subdomains.|Completed. Deleted during the purge|
-|[ATTiny85 BUSB](https://github.com/edenfrey/ATTiny85_BUSB)|A framework to script and create Bad USB devices with the aim to hack and exploit target computers.|Completed|
+|[Bad USB](https://basusb,digitisedgarden.com)|A framework to script and create Bad USB devices with the aim to hack and exploit target computers.|Completed|
 
 ## Stats that don't mean much...
 
