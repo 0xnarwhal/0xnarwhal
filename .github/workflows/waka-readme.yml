@@ -39,6 +39,7 @@ jobs:
           SHOW_SHORT_INFO: true
           SYMBOL_VERSION: 1
           SHOW_LOC_CHART: true
+          IGNORED_LANGUAGEs: HTML TEXT TXT MARKDOWN
           # commit
           COMMIT_MESSAGE: Updated Waka Data
           TARGET_BRANCH: main
