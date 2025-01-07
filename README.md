@@ -56,7 +56,7 @@ Data Science
 
 **🐱 My GitHub Data** 
 
-> 📦 112.1 kB Used in GitHub's Storage 
+> 📦 112.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
