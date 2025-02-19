@@ -58,6 +58,8 @@ Data Science
 
 > 📦 110.9 kB Used in GitHub's Storage 
  > 
+> 🏆 4 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
