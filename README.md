@@ -62,7 +62,7 @@ Data Science
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
