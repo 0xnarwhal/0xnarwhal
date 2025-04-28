@@ -58,8 +58,6 @@ Data Science
 
 > 📦 111.1 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -126,5 +124,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xnarwhal/0xnarwhal/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2025 UTC
+ Last Updated on 28/04/2025 UTC
 <!--END_SECTION:waka-->
