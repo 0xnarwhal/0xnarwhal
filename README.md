@@ -48,7 +48,7 @@ Data Science
 ## Stats that don't mean much...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,16 +93,20 @@ Sunday                   15 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               9 mins              ██████████████████████░░░   86.17 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+digitsedgarden.com       10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
