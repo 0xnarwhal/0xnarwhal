@@ -58,6 +58,8 @@ Data Science
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
+> 🏆 9 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -91,20 +93,16 @@ Sunday                   15 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TypeScript               9 mins              ██████████████████████░░░   86.17 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-digitsedgarden.com       10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
