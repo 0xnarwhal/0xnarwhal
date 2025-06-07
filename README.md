@@ -48,7 +48,7 @@ Data Science
 ## Stats that don't mean much...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -93,16 +93,20 @@ Sunday                   15 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 40 mins             ██████████████████████░░░   89.55 % 
+C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BadUSB                   45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
