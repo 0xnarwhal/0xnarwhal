@@ -2,7 +2,7 @@
 
 ```bash
 root@digitisedgarden:~$ whoami
-Adrian / Eden / Narwhal
+Narwhal
 
 root@digitisedgarden:~$ where birthplace
 Malaysia
