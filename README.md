@@ -56,7 +56,7 @@ Data Science
 
 **🐱 My GitHub Data** 
 
-> 📦 21.8 kB Used in GitHub's Storage 
+> 📦 21.9 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2025
  > 
