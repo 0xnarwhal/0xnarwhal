@@ -48,7 +48,7 @@ Data Science
 ## Stats that don't mean much...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
@@ -57,8 +57,6 @@ Data Science
 **🐱 My GitHub Data** 
 
 > 📦 21.9 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
