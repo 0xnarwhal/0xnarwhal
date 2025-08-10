@@ -2,34 +2,38 @@
 
 ```bash
 root@digitisedgarden:~$ whoami
-Narwhal
+narwhal
 
-root@digitisedgarden:~$ where birthplace
-Malaysia
+root@digitisedgarden:~$ sudo apt install tree 
+[sudo] password for narwhal:
+... Done
 
-root@digitisedgarden:~$ ls ./nightowl -a
-.True
-
-root@digitisedgarden:~$ cat interests.txt
-Cyber Security
-  - Penetration Testing
-  - Red Team
-  - Exploit Development
-Web Dev
-Automation
-Game Dev
-Data Science
-  - Machine Learning
-  - NLP
-  - Data Analysis and Visualization
+root@digitisedgarden:~$ tree ./what-i-do -a
+.
+|-- Cyber Security
+|   |-- Penetration Testing
+|   |-- Scripting
+|   |-- Threat Intelligence/Forensics
+|-- Software Development
+|   |-- Automation Systems
+|   |-- Web App/Platform Dev
+|   |-- Robotics/Arduino Programming
+|-- Game Development
+|   |-- LOVE2D (Lua)
+|   |-- UE5
+|-- Data Science
+|   |-- Machine Learning/Deep Learning/AI
+|   |-- Data ANalysis
+|   |-- Data Visualisation
 ```
 
 ## Proffesional Career Timeline
 
-|Position|Company|Employment Level|Additional Info|
-|-------------|---------------------------------------------------------------|----|-----|
-|Solutions Engineer & Penetration Tester | PETRONAS Digital |Executive| Current Employment |
-|Operations Intern | PETRONAS Digital |Internship|3-month internship experience|
+|Position Title|Company|Additional Info|
+|-------|--------|------|
+|Cyber Security Consultant|Appfuxion|Jul 2025 - Current|
+|Solutions Engineer & Penetration Tester | PETRONAS Digital | Aug 2023 - Jun 2025 |
+|Operations Intern | PETRONAS Digital|Nov 2022 - Feb 2023|
 
 ## Projects
 
@@ -38,9 +42,5 @@ Data Science
 |[Bad USB](https://basusb,digitisedgarden.com)|A framework to script and create Bad USB devices with the aim to hack and exploit target computers.|Completed|
 
 ## Connect With Me
-
-[Hub Website](https://digitisedgarden.com)
-
-[Adrian's Website](https://adrian.digitisedgarden.com)
 
 [LinkedIn](https://linkedin.com/in/amiradrian)
